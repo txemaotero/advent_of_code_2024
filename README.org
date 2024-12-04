@@ -1,0 +1,10 @@
+* Advent of code 2024
+This year, the goal is to play around with 8 different programming languages. Each day I will use the next in the list:
+- Haskell
+- Clojure
+- Ocaml
+- Swift
+- Kotlin
+- Go
+- Zig
+- Rust
